@@ -1,4 +1,0 @@
-tests/unit/coverage
-tests/e2e/reports
-tests/e2e/custom-commands
-src/views/Bootstrap.vue
